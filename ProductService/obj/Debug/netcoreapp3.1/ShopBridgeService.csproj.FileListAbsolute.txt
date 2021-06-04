@@ -1,0 +1,12 @@
+F:\Test\ShopBridge\ProductService\bin\Debug\netcoreapp3.1\ShopBridgeService.deps.json
+F:\Test\ShopBridge\ProductService\bin\Debug\netcoreapp3.1\ShopBridgeService.dll
+F:\Test\ShopBridge\ProductService\bin\Debug\netcoreapp3.1\ShopBridgeService.pdb
+F:\Test\ShopBridge\ProductService\obj\Debug\netcoreapp3.1\ShopBridgeService.csprojAssemblyReference.cache
+F:\Test\ShopBridge\ProductService\obj\Debug\netcoreapp3.1\ShopBridgeService.AssemblyInfoInputs.cache
+F:\Test\ShopBridge\ProductService\obj\Debug\netcoreapp3.1\ShopBridgeService.AssemblyInfo.cs
+F:\Test\ShopBridge\ProductService\obj\Debug\netcoreapp3.1\ShopBridgeService.csproj.CoreCompileInputs.cache
+F:\Test\ShopBridge\ProductService\obj\Debug\netcoreapp3.1\ShopBridgeService.dll
+F:\Test\ShopBridge\ProductService\obj\Debug\netcoreapp3.1\ShopBridgeService.pdb
+F:\Test\ShopBridge\ProductService\bin\Debug\netcoreapp3.1\ShopBridgeRepository.dll
+F:\Test\ShopBridge\ProductService\bin\Debug\netcoreapp3.1\ShopBridgeRepository.pdb
+F:\Test\ShopBridge\ProductService\obj\Debug\netcoreapp3.1\ShopBridgeService.csproj.CopyComplete

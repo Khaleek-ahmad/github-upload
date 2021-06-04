@@ -1,0 +1,12 @@
+F:\Test\ShopBridge\ProductRepository\obj\Debug\netcoreapp3.1\ShopBridgeRepository.AssemblyInfoInputs.cache
+F:\Test\ShopBridge\ProductRepository\obj\Debug\netcoreapp3.1\ShopBridgeRepository.AssemblyInfo.cs
+F:\Test\ShopBridge\ProductRepository\obj\Debug\netcoreapp3.1\ShopBridgeRepository.csproj.CoreCompileInputs.cache
+F:\Test\ShopBridge\ProductRepository\bin\Debug\netcoreapp3.1\ShopBridgeRepository.deps.json
+F:\Test\ShopBridge\ProductRepository\bin\Debug\netcoreapp3.1\ShopBridgeRepository.runtimeconfig.json
+F:\Test\ShopBridge\ProductRepository\bin\Debug\netcoreapp3.1\ShopBridgeRepository.runtimeconfig.dev.json
+F:\Test\ShopBridge\ProductRepository\bin\Debug\netcoreapp3.1\ShopBridgeRepository.dll
+F:\Test\ShopBridge\ProductRepository\bin\Debug\netcoreapp3.1\ShopBridgeRepository.pdb
+F:\Test\ShopBridge\ProductRepository\obj\Debug\netcoreapp3.1\ShopBridgeRepository.dll
+F:\Test\ShopBridge\ProductRepository\obj\Debug\netcoreapp3.1\ShopBridgeRepository.pdb
+F:\Test\ShopBridge\ProductRepository\obj\Debug\netcoreapp3.1\ShopBridgeRepository.genruntimeconfig.cache
+F:\Test\ShopBridge\ProductRepository\obj\Debug\netcoreapp3.1\ShopBridgeRepository.csprojAssemblyReference.cache
